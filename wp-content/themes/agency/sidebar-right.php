@@ -1,0 +1,1 @@
+<div class="sidebar right">	<?php if ( !function_exists('dynamic_sidebar')			|| !dynamic_sidebar('sidebar 2') ) : ?>	<?php endif; ?></div><!--sidebar-->
