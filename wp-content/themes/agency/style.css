@@ -3,15 +3,15 @@
 /* -------------------------------------------------------------- 
 
 	Theme Name: Agency
-	Theme URI: http://fearlessflyer.com
-	Description: Minimalistic Portfolio Sytle Theme
-	Author: Michael Soriano
-	Author URI: http://fearlessflyer.com
+	Theme URI: http://vladchernetskiy.com
+	Description: Vlad Chernetskiy Portfolio Sytle Theme
+	Author: Vlad Chernetskiy
+	Author URI: http://vladchernetskiy.com
 	Version: 1.0
-	Translation: http://hostenko.com
+	Translation: http://vladchernetskiy.com
 
 -------------------------------------------------------------- */
-* {padding:0; margin:0;}
+* {padding:0; margin:0; /* Need write border */ border:0px;}
 body {color: #373737; font-family: Arial, Helvetica, sans-serif; font-size:12px; line-height:16px; }
 ::selection {background:#228570; color:#FFF; }
 ::-moz-selection {background:#228570; color:#FFF;}
