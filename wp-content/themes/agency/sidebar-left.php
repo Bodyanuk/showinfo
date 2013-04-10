@@ -1,10 +1,10 @@
 <div class="sidebar left">
 
 <div id="search">
-<strong>Поиск</strong>
+<strong>Пошук</strong>
 
 <form method="get" action="<?php bloginfo('home'); ?>/">
-<input name="s" type="text" class="inputs" id="s" value="введите слово.." onfocus="if(this.value==this.defaultValue)this.value='';" onblur="if(this.value=='')this.value=this.defaultValue;"			
+<input name="s" type="text" class="inputs" id="s" value="введіть слово.." onfocus="if(this.value==this.defaultValue)this.value='';" onblur="if(this.value=='')this.value=this.defaultValue;"
 			 size="12" />
 </form>
 </div><!--search-->
