@@ -21,6 +21,7 @@ if ( force_ssl_admin() && ! is_ssl() ) {
 		exit();
 	}
 }
+/* Hello, world! */
 
 /**
  * Outputs the header for the login page.
